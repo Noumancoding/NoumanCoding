@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f39c12;">Nouman Coding</span></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&width=500&lines=Frontend+Web+Developer;JavaScript+%7C+HTML5+%7C+CSS3;Clean+Code+%7C+Live+Projects+%7C+Daily+Practice" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
