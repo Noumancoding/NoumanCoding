@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, I'm Nouman
 
-<!--
-**Noumancoding/Noumancoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m learning frontend development from the beginning.
 
-Here are some ideas to get you started:
+Right now, I know HTML and CSS. I build small websites and practice daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I only write my own code. No AI, no copy-paste.
+
+My goal is to get a real remote frontend job by September 2025.
+
+---
+
+I keep learning one step at a time.
+
+You can check my public projects. They are real and simple.
+
+Contact me:
+- Email: noumanali.coding@gmail.com
+- GitHub: github.com/NoumanCoding
