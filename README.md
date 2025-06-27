@@ -17,3 +17,7 @@ You can check my public projects. They are real and simple.
 Contact me:
 - Email: noumanali.coding@gmail.com
 - GitHub: github.com/NoumanCoding
+
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanCoding&layout=compact&theme=radical&border_radius=12)
