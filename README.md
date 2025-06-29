@@ -1,37 +1,49 @@
-# 👋 Hello, I'm Nouman
+# 👋 Hi, I’m Muhammad Nouman Ali
 
-### Frontend Developer — HTML • CSS • Git • JavaScript (Learning)
+I'm a **Front-End Developer** focused on building clean and responsive websites using **HTML5, CSS3, Git**, and currently learning **JavaScript**.
 
-I'm currently focused on frontend development. I build responsive websites using HTML and CSS, and I’m gradually moving into JavaScript.
-
----
-
-## 💡 Skills
-
-- HTML5  
-- CSS3 (Flexbox, Grid, Media Queries)  
-- Git & GitHub (Commits, Branches, Hosting)  
-- Learning JavaScript: DOM, Events, Functions  
+Since June 2025, I’ve developed several real-world projects — each one hand-coded and deployed live to practice layout, structure, and clean UI design.
 
 ---
 
-## 📁 Projects
+## 🚀 Live Projects
 
-| Project | Tech Stack | Live Demo |
-|--------|------------|-----------|
-| **Simple Landing Page** | HTML, CSS | [View](https://landing-page-noumancoding.vercel.app) |
-| **Card UI Layout** | HTML, CSS (Flexbox) | [View](https://card-ui-html-css.vercel.app) |
-| **Multi-Section Portfolio** | HTML, CSS | [View](https://multi-section-portfolio-html-css.vercel.app) |
-| **Responsive Image Gallery** | HTML, CSS (Grid + Responsive) | [View](https://responsive-image-gallery-html-css.vercel.app) |
+- 🔹 [Landing Page](https://landing-page-noumancoding.vercel.app)
+- 🔹 [Card UI Layout (Flexbox)](https://card-ui-html-css.vercel.app)
+- 🔹 [Image Gallery (CSS Grid)](https://responsive-image-gallery-html-css.vercel.app)
+- 🔹 [Multi-Section Portfolio](https://multi-section-portfolio-html-css.vercel.app)
 
-All projects are responsive and organized with clean code structure.
+🔗 Repositories for all projects are available below.
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack
 
-- Email: [noumanali.coding@gmail.com](mailto:noumanali.coding@gmail.com)  
-- GitHub: [github.com/NoumanCoding](https://github.com/NoumanCoding)  
-- Portfolio: [noumancoding.vercel.app](https://noumancoding.vercel.app)
+- HTML5 / CSS3  
+- Flexbox / CSS Grid  
+- Git & GitHub  
+- Vercel (for deployment)  
+- JavaScript (Learning DOM, events, structure)
 
 ---
+
+## 📌 Currently Learning
+
+- JavaScript Fundamentals  
+- DOM Manipulation & Events  
+- Front-End Structure & Accessibility
+
+---
+
+## 📬 Open to:
+
+- Remote Front-End Internships  
+- Junior Front-End Developer Roles  
+- Freelance Projects (HTML, CSS, JS)
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [linkedin.com/in/noumancoding](https://linkedin.com/in/noumancoding)
+- GitHub: [github.com/Noumancoding](https://github.com/Noumancoding)
