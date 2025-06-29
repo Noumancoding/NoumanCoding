@@ -1,23 +1,37 @@
-# Hello, I'm Nouman
+# 👋 Hello, I'm Nouman
 
-I’m learning frontend development from the beginning.
+### Frontend Developer — HTML • CSS • Git • JavaScript (Learning)
 
-Right now, I know HTML and CSS. I build small websites and practice daily.
-
-I only write my own code. No AI, no copy-paste.
-
-My goal is to get a real remote frontend job by September 2025.
+I'm currently focused on frontend development. I build responsive websites using HTML and CSS, and I’m gradually moving into JavaScript.
 
 ---
 
-I keep learning one step at a time.
+## 💡 Skills
 
-You can check my public projects. They are real and simple.
-
-Contact me:
-- Email: noumanali.coding@gmail.com
-- GitHub: github.com/NoumanCoding
-
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- Git & GitHub (Commits, Branches, Hosting)  
+- Learning JavaScript: DOM, Events, Functions  
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoumanCoding&layout=compact&theme=radical&border_radius=12)
+
+## 📁 Projects
+
+| Project | Tech Stack | Live Demo |
+|--------|------------|-----------|
+| **Simple Landing Page** | HTML, CSS | [View](https://landing-page-noumancoding.vercel.app) |
+| **Card UI Layout** | HTML, CSS (Flexbox) | [View](https://card-ui-html-css.vercel.app) |
+| **Multi-Section Portfolio** | HTML, CSS | [View](https://multi-section-portfolio-html-css.vercel.app) |
+| **Responsive Image Gallery** | HTML, CSS (Grid + Responsive) | [View](https://responsive-image-gallery-html-css.vercel.app) |
+
+All projects are responsive and organized with clean code structure.
+
+---
+
+## 📬 Contact
+
+- Email: [noumanali.coding@gmail.com](mailto:noumanali.coding@gmail.com)  
+- GitHub: [github.com/NoumanCoding](https://github.com/NoumanCoding)  
+- Portfolio: [noumancoding.vercel.app](https://noumancoding.vercel.app)
+
+---
