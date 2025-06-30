@@ -35,6 +35,21 @@ Since June 2025, I’ve developed several real-world projects — each one hand-
 
 ---
 
+## 📊 GitHub Stats  
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noumancoding&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noumancoding&theme=tokyonight&hide_border=true" width="400" />
+    </td>
+  </tr>
+</table>
+
+
+---
 ## 📬 Open to:
 
 - Remote Front-End Internships  
