@@ -49,7 +49,7 @@ Since June 2025, I’ve developed several real-world projects — each one hand-
 ---
 ## 📬 Open to:
 
-- Remote Front-End Internships  
+- Remote Front-End   
 - Junior Front-End Developer Roles  
 - Freelance Projects (HTML, CSS, JS)
 
