@@ -2,7 +2,7 @@
 
 I'm a **Front-End Developer** focused on building clean and responsive websites using **HTML5, CSS3, Git**, and currently learning **JavaScript**.
 
-Since June 2025, I’ve developed several real-world projects — each one hand-coded and deployed live to practice layout, structure, and clean UI design.
+Since July 2025, I’ve developed several real-world projects — each one hand-coded and deployed live to practice layout, structure, and clean UI design.
 
 ---
 
