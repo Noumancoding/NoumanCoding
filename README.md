@@ -57,10 +57,7 @@ Let’s build something purposeful and clean, together.
 
 ---
 
-### 📊 GitHub Stats (Last 30 Days)
-
-* 🔁 Active Commits: 45+
-* 🗂️ Repositories Worked On: 10
-* 🛠️ Focus: JS Projects, Git Practice, UI Improvement
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noumancoding&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&border_radius=10)
+![Snake](https://github.com/Noumancoding/Noumancoding/blob/output/github-contribution-grid-snake.svg)
 
 Thank you for visiting.
