@@ -10,20 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate Snake SVG
     steps:
-      - name: Checkout repo
+      - name: Checkout main
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: Noumancoding
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: github-actions
-          author_email: github-actions@github.com
-          message: "generate github-contribution-grid-snake.svg"
-          add: "dist/github-contribution-grid-snake.svg"
+      - name: Push Snake SVG to `output` branch
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout --orphan output
+          git reset
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "🐍 Generate Snake animation"
+          git push -f origin output
