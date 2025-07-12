@@ -1,63 +1,66 @@
-# 👋 Hi, I’m Muhammad Nouman Ali
+### 👋 Hi, I’m Muhammad Nouman Ali
 
-I'm a **Front-End Developer** focused on building clean and responsive websites using **HTML5, CSS3, Git**, and currently learning **JavaScript**.
-
-Since July 2025, I’ve developed several real-world projects — each one hand-coded and deployed live to practice layout, structure, and clean UI design.
+I’m a **Front-End Developer** from Pakistan 🇵🇰 focused on building clean, responsive websites using **HTML5, CSS3, JavaScript**, and **Git/GitHub**. Currently deepening my skills in **JavaScript DOM, interactivity, and frontend structure**.
 
 ---
 
-## 🚀 Live Projects
+### 🚀 Projects I’ve Built (Live + Code Repos)
 
-- 🔹 [Landing Page](https://landing-page-noumancoding.vercel.app)
-- 🔹 [Card UI Layout (Flexbox)](https://card-ui-html-css.vercel.app)
-- 🔹 [Image Gallery (CSS Grid)](https://responsive-image-gallery-html-css.vercel.app)
-- 🔹 [Multi-Section Portfolio](https://multi-section-portfolio-html-css.vercel.app)
-- 🔹 [Color Flipper](https://noumancoding.github.io/color-flipper-js/)
-- 🔹 [Counter App](https://noumancoding.github.io/counter-js/)
-  
-🔗 Repositories for all projects are available below.
+* **Landing Page** → HTML, CSS, Mobile-First Design
+* **Card UI Layout** → Flexbox Practice
+* **Responsive Image Gallery** → CSS Grid with hover effects
+* **Multi-Section Portfolio** → Hero, About, Projects, Contact Sections
+* **Color Flipper (JS DOM)** → Changes background with button
+* **Counter App (JS DOM)** → Count up/down/reset buttons
 
----
+> ✅ All projects deployed on **Vercel and Github**, with full GitHub version control
 
-## 🛠️ Tech Stack
-
-- HTML5 / CSS3  
-- Flexbox / CSS Grid  
-- Git & GitHub  
-- Vercel (for deployment)  
-- JavaScript (Learning DOM, events, structure)
+🔗 See all code in pinned repos or at: [github.com/Noumancoding](https://github.com/Noumancoding)
 
 ---
 
-## 📌 Currently Learning
+### 🛠️ My Current Tech Stack
 
-- JavaScript Fundamentals  
-- DOM Manipulation & Events  
-- Front-End Structure & Accessibility
-
----
-
-## 📊 GitHub Stats  
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noumancoding&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-    </td>
-  </tr>
-</table>
-
-
----
-## 📬 Open to:
-
-- Remote Front-End   
-- Junior Front-End Developer Roles  
-- Freelance Projects (HTML, CSS, JS)
+* **HTML5 / CSS3**
+* **Flexbox / CSS Grid / Media Queries**
+* **Git & GitHub**
+* **Vercel (deployment)**
+* **JavaScript (in progress)**
 
 ---
 
-## 📫 Let’s Connect
+### 📚 Learning Roadmap (July 2025 → Present)
 
-- LinkedIn: [linkedin.com/in/noumancoding](https://linkedin.com/in/noumancoding)
-- GitHub: [github.com/Noumancoding](https://github.com/Noumancoding)
+* JavaScript Fundamentals
+* DOM Manipulation & Events
+* Frontend Architecture
+* Responsive Layout Techniques
+
+---
+
+### 📫 Contact / Connect
+
+* 📧 [noumanali.coding@gmail.com](mailto:noumanali.coding@gmail.com)
+* 🌐 [Portfolio](https://noumancoding.vercel.app)
+* 🔗 [LinkedIn](https://linkedin.com/in/noumancoding)
+* 🧑‍💻 [GitHub](https://github.com/Noumancoding)
+
+---
+
+### 💼 Open to:
+
+* Remote Front-End Developer
+* Junior Front-End Developer roles
+* Freelance HTML/CSS/JS Projects
+
+Let’s build something purposeful and clean, together.
+
+---
+
+### 📊 GitHub Stats (Last 30 Days)
+
+* 🔁 Active Commits: 45+
+* 🗂️ Repositories Worked On: 10
+* 🛠️ Focus: JS Projects, Git Practice, UI Improvement
+
+Thank you for visiting.
