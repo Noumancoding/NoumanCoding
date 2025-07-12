@@ -12,7 +12,9 @@ Since July 2025, I’ve developed several real-world projects — each one hand-
 - 🔹 [Card UI Layout (Flexbox)](https://card-ui-html-css.vercel.app)
 - 🔹 [Image Gallery (CSS Grid)](https://responsive-image-gallery-html-css.vercel.app)
 - 🔹 [Multi-Section Portfolio](https://multi-section-portfolio-html-css.vercel.app)
-
+- 🔹 [Color Flipper](https://noumancoding.github.io/color-flipper-js/)
+- 🔹 [Counter App](https://noumancoding.github.io/counter-js/)
+  
 🔗 Repositories for all projects are available below.
 
 ---
