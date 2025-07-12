@@ -58,6 +58,5 @@ Let’s build something purposeful and clean, together.
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noumancoding&layout=compact&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&border_radius=10)
-![Snake animation](https://github.com/Noumancoding/Noumancoding/blob/output/github-contribution-grid-snake.svg)
 
 Thank you for visiting.
