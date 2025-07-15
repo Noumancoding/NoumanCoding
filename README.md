@@ -1,60 +1,63 @@
-### 👋 Hi, I’m Muhammad Nouman Ali
+# 👋 Hi, I'm Muhammad Nouman Ali
 
-I’m a **Front-End Developer** from Pakistan 🇵🇰 focused on building clean, responsive websites using **HTML5, CSS3, JavaScript**, and **Git/GitHub**. Currently deepening my skills in **JavaScript DOM, interactivity, and frontend structure**.
-
----
-
-### 🚀 Projects I’ve Built (Live + Code Repos)
-
-* **Landing Page** → HTML, CSS, Mobile-First Design
-* **Card UI Layout** → Flexbox Practice
-* **Responsive Image Gallery** → CSS Grid with hover effects
-* **Multi-Section Portfolio** → Hero, About, Projects, Contact Sections
-* **Color Flipper (JS DOM)** → Changes background with button
-* **Counter App (JS DOM)** → Count up/down/reset buttons
-
-> ✅ All projects deployed on **Vercel and Github**, with full GitHub version control
-
-🔗 See all code in pinned repos or at: [github.com/Noumancoding](https://github.com/Noumancoding)
+🎯 A passionate **Front-End Developer** from **Pakistan 🇵🇰**, focused on building clean, responsive, and user-friendly websites.  
+Currently leveling up my **JavaScript** and DOM interactivity skills with hands-on projects.
 
 ---
 
-### 🛠️ My Current Tech Stack
+## 🚀 Projects I’ve Built (Live + Code Repos)
 
-* **HTML5 / CSS3**
-* **Flexbox / CSS Grid / Media Queries**
-* **Git & GitHub**
-* **Vercel (deployment)**
-* **JavaScript (in progress)**
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🎯 **Landing Page** | HTML, CSS | Mobile-first layout with modern design |
+| 💳 **Card UI Layout** | Flexbox | Responsive card layout using flexbox |
+| 🖼️ **Image Gallery** | CSS Grid | Responsive grid gallery with hover animations |
+| 🧑‍💻 **Multi-Section Portfolio** | HTML, CSS | Hero, About, Projects, and Contact sections |
+| 🎨 **Color Flipper (DOM)** | JavaScript | Random color generator for page background |
+| ➕ **Counter App (DOM)** | JavaScript | Interactive counter with increment/decrement/reset |
+| ✨ **Quote Generator (DOM)** | JavaScript | Random quote display on button click |
 
----
+> ✅ All projects are deployed on **Vercel** and version-controlled on **GitHub**.
 
-### 📚 Learning Roadmap (July 2025 → Present)
-
-* JavaScript Fundamentals
-* DOM Manipulation & Events
-* Frontend Architecture
-* Responsive Layout Techniques
-
----
-
-### 📫 Contact / Connect
-
-* 📧 [noumanali.coding@gmail.com](mailto:noumanali.coding@gmail.com)
-* 🌐 [Portfolio](https://noumancoding.vercel.app)
-* 🔗 [LinkedIn](https://linkedin.com/in/noumancoding)
-* 🧑‍💻 [GitHub](https://github.com/Noumancoding)
+📌 [See all pinned repositories](https://github.com/Noumancoding)
 
 ---
 
-### 💼 Open to:
+## 🛠️ My Current Tech Stack
 
-* Remote Front-End Developer
-* Junior Front-End Developer roles
-* Freelance HTML/CSS/JS Projects
-
-Let’s build something purposeful and clean, together.
+- HTML5 / CSS3  
+- Flexbox / Grid / Media Queries  
+- Git & GitHub  
+- JavaScript (in progress)  
+- Vercel (deployment)
 
 ---
 
-Thank you for visiting.
+## 📚 Learning Roadmap — *(July 2025 → Present)*
+
+- ✅ JavaScript Fundamentals (variables, operators, functions)  
+- ✅ DOM Manipulation & Events  
+- 🚧 Responsive Web App Architecture  
+- 🔜 React.js (starting August 2025)  
+- 🔜 Real-World Projects with JS + React
+
+---
+
+## 📫 Contact / Connect
+
+- 📧 **Email:** [noumanali.coding@gmail.com](mailto:noumanali.coding@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/noumancoding](https://linkedin.com/in/noumancoding)  
+- 💻 **GitHub:** [github.com/Noumancoding](https://github.com/Noumancoding)
+
+---
+
+## 💼 Open To:
+
+- 🌐 Remote Front-End Developer roles  
+- 👨‍💻 Junior Front-End / JavaScript Developer  
+- 🛠️ Freelance HTML, CSS, JavaScript Projects
+
+---
+
+✨ Let's build something **purposeful**, **clean**, and **impactful** together.  
+Thank you for visiting.  
