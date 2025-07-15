@@ -17,7 +17,7 @@ Currently leveling up my **JavaScript** and DOM interactivity skills with hands-
 | ➕ **Counter App (DOM)** | JavaScript | Interactive counter with increment/decrement/reset |
 | ✨ **Quote Generator (DOM)** | JavaScript | Random quote display on button click |
 
-> ✅ All projects are deployed on **Vercel** and version-controlled on **GitHub**.
+> ✅ All projects are deployed on **Vercel and Github** and version-controlled on **GitHub**.
 
 📌 [See all pinned repositories](https://github.com/Noumancoding)
 
